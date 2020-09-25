@@ -1,5 +1,5 @@
 # Rakudo     
-[![Foo](//xscode.shakuro.info/banner/apalnovs/electron)](https://xscode.shakuro.info/apalnovs/electron?trackView=1)
+[![Foo](https://xscode.shakuro.info/banner/apalnovs/electron)](https://xscode.shakuro.info/apalnovs/electron?trackView=1)
 
 [![Foo](https://xscode.com/assets/promo-banner.svg)](https://xscode.com/apalnovs/glowing-guide)
 
